@@ -61,13 +61,13 @@
 
 ---
 
-## 📈 Top Languages
+<!--📈 Top Languages>
 
-<div align="center">
+<!-- <div align="center"> -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitanshuPatelMMR&layout=donut&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=9d9bb8&bg_color=0d0d14&langs_count=8&cache_seconds=1800" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitanshuPatelMMR&layout=donut&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=9d9bb8&bg_color=0d0d14&langs_count=8&cache_seconds=1800" /> -->
 
-</div>
+<!-- </div> -->
 
 ---
 
