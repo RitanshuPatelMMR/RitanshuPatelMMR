@@ -71,15 +71,11 @@
 
 ---
 
-## 🏙️ Contribution Skyline
+## 🏙️ Contribution Graph
 
 <div align="center">
 
-> *Every commit is a floor. Every push is a building. This is my city.*
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RitanshuPatelMMR&theme=tokyonight" width="100%"/>
-
-**[🌆 View My 3D Contribution Skyline →](https://skyline.github.com/RitanshuPatelMMR/2025)**
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
 
 </div>
 
