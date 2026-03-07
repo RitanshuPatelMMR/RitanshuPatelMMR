@@ -20,14 +20,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: RitanshuPatelMMR
-          SETTING_JSON: |
-            {
-              "githubUserName": "RitanshuPatelMMR",
-              "contributionColorArray": ["#0a0a0f", "#2d1b69", "#4c1d95", "#7C3AED", "#a78bfa"],
-              "backgroundColor": "#0a0a0f",
-              "angle": -30,
-              "type": "normal"
-            }
+          MAX_REPOS: 100
+          THREE_DIMENSION: true
 
       - name: Commit 3D graph
         run: |
