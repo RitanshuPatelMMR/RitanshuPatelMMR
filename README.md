@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=warp&color=0a0a0f&height=120&section=header&text=Ritanshu%20Patel&fontSize=52&fontColor=c4b5fd&fontAlignY=65&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Builder&descColor=6b6888&descSize=15&descAlignY=85"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:1a0a3e,100:0a0a0f&height=200&section=header&text=Ritanshu%20Patel&fontSize=60&fontColor=c4b5fd&fontAlignY=55&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Builder&descColor=a78bfa&descSize=18&descAlignY=75&stroke=7C3AED&strokeWidth=1" width="100%"/>
 
 </div>
 
@@ -120,6 +120,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=warp&color=0a0a0f&height=80&section=footer&text=building%20in%20public%20·%202025&fontSize=14&fontColor=3b1f6e"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:1a0a3e,100:0a0a0f&height=100&section=footer&text=building%20in%20public%20·%202025&fontSize=16&fontColor=3b1f6e&animation=fadeIn" width="100%"/>
 
 </div>
