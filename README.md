@@ -1,13 +1,125 @@
-# 💫 About Me: https://www.ritanshupatel.site
-🔭 I’m currently working on<br>Building AI-based problem-solving solutions and scalable full-stack web platforms, focusing on performance, real-world use cases, and intelligent automation.<br>👯 I’m looking to collaborate on<br>AI-driven applications and intelligent systems<br>Scalable full-stack projects (React, Next.js, Node.js, Django)<br>Open-source tools related to web performance, SEO, and developer productivity<br>🤝 I’m looking for help with<br>Advanced AI/ML model optimization and deployment<br>System design for high-scale, AI-powered platforms<br>Improving DevOps workflows for production-grade applications<br>🌱 I’m currently learning<br>Applied AI & machine learning for real-world problem solving<br>Advanced cloud architecture on AWS<br>System design patterns and performance optimization at scale<br>💬 Ask me about<br>Full Stack Development (React, Next.js, Node.js, Django)<br>Web performance optimization (Core Web Vitals, SEO)<br>Building scalable APIs and cloud-ready applications<br>Investing basics, long-term investing strategies, and tech-driven market trends<br>⚡ Fun fact<br>I enjoy analyzing tech businesses and investment opportunities with the same mindset I use to optimize code — data-driven, long-term, and scalable 
+<!-- Header -->
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ritanshupatel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ritanshupatel88@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=warp&color=0a0a0f&height=120&section=header&text=Ritanshu%20Patel&fontSize=52&fontColor=c4b5fd&fontAlignY=65&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Builder&descColor=6b6888&descSize=15&descAlignY=85"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RitanshuPatelMMR&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+*I don't just write code — I architect solutions, challenge assumptions,*
+*and build products meant to outlast the hype.*
+
+**Full Stack + AI Engineering. Production standard. Always.**
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ritanshupatel.site-7C3AED?style=for-the-badge&labelColor=0a0a0f)](https://www.ritanshupatel.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ritanshupatel-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0f)](https://linkedin.com/in/ritanshupatel)
+[![Email](https://img.shields.io/badge/Email-ritanshupatel88-c4b5fd?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f)](mailto:ritanshupatel88@gmail.com)
+
+</div>
+
+---
+
+## ⚡ Currently Building
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  🔴 LIVE  RAG Pipeline + Document Intelligence Agent     │
+│  ─────────────────────────────────────────────────────  │
+│  Production-grade document Q&A system                    │
+│  LangChain · FAISS · OpenAI · FastAPI · Python          │
+└─────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────┐
+│  🔴 LIVE  mmrstatistics.com — SaaS Analytics Platform   │
+│  ─────────────────────────────────────────────────────  │
+│  Built end-to-end. 30% perf improvement shipped.        │
+│  Next.js · TypeScript · MongoDB · AWS S3 · CloudFront   │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=RitanshuPatelMMR&show_icons=true&theme=transparent&hide_border=true&title_color=a78bfa&icon_color=7C3AED&text_color=9d9bb8&bg_color=0d0d14&ring_color=7C3AED"/>
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=RitanshuPatelMMR&theme=transparent&hide_border=true&stroke=7C3AED&ring=a78bfa&fire=c4b5fd&currStreakLabel=a78bfa&sideLabels=9d9bb8&dates=6b6888&background=0d0d14&currStreakNum=e8e6f0&sideNums=e8e6f0"/>
+
+</div>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RitanshuPatelMMR&bg_color=0d0d14&color=a78bfa&line=7C3AED&point=c4b5fd&hide_border=true&area=true&area_color=7C3AED"/>
+
+</div>
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-0a0a0f?style=flat-square&logo=next.js&logoColor=c4b5fd)
+![React](https://img.shields.io/badge/React-0a0a0f?style=flat-square&logo=react&logoColor=c4b5fd)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0f?style=flat-square&logo=typescript&logoColor=c4b5fd)
+![Tailwind](https://img.shields.io/badge/Tailwind-0a0a0f?style=flat-square&logo=tailwindcss&logoColor=c4b5fd)
+
+**Backend & Cloud**
+
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0f?style=flat-square&logo=node.js&logoColor=c4b5fd)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0f?style=flat-square&logo=fastapi&logoColor=c4b5fd)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0f?style=flat-square&logo=mongodb&logoColor=c4b5fd)
+![AWS](https://img.shields.io/badge/AWS-0a0a0f?style=flat-square&logo=amazon-aws&logoColor=c4b5fd)
+![Docker](https://img.shields.io/badge/Docker-0a0a0f?style=flat-square&logo=docker&logoColor=c4b5fd)
+
+**🤖 AI Engineering**
+
+![LangChain](https://img.shields.io/badge/LangChain-7C3AED?style=flat-square&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-7C3AED?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-7C3AED?style=flat-square&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-7C3AED?style=flat-square&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-7C3AED?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-7C3AED?style=flat-square&logo=openai&logoColor=white)
+
+**Data & ML**
+
+![Python](https://img.shields.io/badge/Python-0a0a0f?style=flat-square&logo=python&logoColor=c4b5fd)
+![XGBoost](https://img.shields.io/badge/XGBoost-0a0a0f?style=flat-square&logoColor=c4b5fd)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0a0a0f?style=flat-square&logo=scikit-learn&logoColor=c4b5fd)
+![Pandas](https://img.shields.io/badge/Pandas-0a0a0f?style=flat-square&logo=pandas&logoColor=c4b5fd)
+
+---
+
+## 💭 Philosophy
+
+> Most people wait to be assigned a problem.
+> I find them, break them down, build the solution from scratch,
+> ship it to production, and then look for the next one.
+>
+> Good code isn't just code that works —
+> it's code that **performs, scales, and serves a purpose.**
+>
+> That mindset doesn't come from a course.
+> It comes from refusing to be average at something that actually matters.
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Stack | What makes it different |
+|---|---|---|
+| [Network Integrity Assurance Platform](https://github.com/RitanshuPatelMMR) | Python · XGBoost · FastAPI · SHAP | Ensemble ML system · 99.38% precision · XAI explainability |
+| [Cloud Vault](https://github.com/RitanshuPatelMMR) | Next.js 15 · Appwrite · TypeScript | Sub-300ms retrieval · OTP auth · Full CI/CD |
+| [Chartify](https://github.com/RitanshuPatelMMR) | React · MongoDB · Recharts | SaaS data viz · RBAC admin · CSV/Excel/JSON support |
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=warp&color=0a0a0f&height=80&section=footer&text=building%20in%20public%20·%202025&fontSize=14&fontColor=3b1f6e"/>
+
+</div>
