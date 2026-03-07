@@ -65,7 +65,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitanshuPatelMMR&layout=compact&theme=transparent&hide_border=true&title_color=a78bfa&text_color=9d9bb8&bg_color=0d0d14&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitanshuPatelMMR&layout=donut&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=9d9bb8&bg_color=0d0d14&langs_count=8&cache_seconds=1800" />
 
 </div>
 
@@ -77,9 +77,9 @@
 
 > *Every commit is a floor. Every push is a building. This is my city.*
 
-[![Skyline](https://skyline.github.com/RitanshuPatelMMR/2025.png)](https://skyline.github.com/RitanshuPatelMMR/2025)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RitanshuPatelMMR&theme=tokyonight" width="100%"/>
 
-**[🌆 View My 3D Contribution Skyline](https://skyline.github.com/RitanshuPatelMMR/2025)**
+**[🌆 View My 3D Contribution Skyline →](https://skyline.github.com/RitanshuPatelMMR/2025)**
 
 </div>
 
